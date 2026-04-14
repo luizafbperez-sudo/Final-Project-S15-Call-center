@@ -1,9 +1,9 @@
-# Call Center Efficiency Analysis
+# Call Center Efficiency Analysis 📞
 
-## 📌 Objective
+## 🎯 Objective
 The goal is to assist supervisors in identifying inefficient operators, taking into account factors such as the number of calls, wait times, and whether outbound calls are being made.
 
-# Technologies used
+# 📊 Technologies used
 ## Python | Pandas | SQL | Tableau | NumPySciPy | Matplotlib | Seaborn | Plotly | Statistical Analysis
 
 # 🧩 Dataset structure
@@ -32,7 +32,7 @@ Exploratory Data Analysis (EDA): Call records were analyzed, focusing on call vo
 Clustering: A Mann-Whitney U test was performed, as it is well-suited for datasets exhibiting high dispersion.
 
 
-## 📌 Insights
+## 🚀 Insights
 The established criteria resulted in a significant number of inefficient users. Inefficient Users (< 2,000 outgoing calls): 176 (79.3%); Efficient Users (≥ 2,000 outgoing calls): 46 (20.7%). Furthermore, the results of the statistical test indicated that the null hypothesis is rejected, as its significance level is very high.
 
 
